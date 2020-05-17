@@ -18,7 +18,9 @@ https://github.com/Abstractize/C-DynamicLibraryExample
 
 6. Copiamos los headers de la biblioteca para usarlos como referencia en código y los colocamos junto a la biblioteca dinámica
 .
+<br />
 ![Step6](/images/Step6.png)
+<br />
 Ej: 
 ```
 #include "lib/library.h"

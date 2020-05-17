@@ -9,5 +9,4 @@ extern "C"
     int CountPeople();
 };
 
-
 #endif //LIB_LIBRARY_H
